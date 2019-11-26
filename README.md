@@ -1,7 +1,7 @@
 # myMicroservicesApp
 A microservice package that manages a simple application for movie ratings
 
-##The project is based on :
+## The project is based on :
 
 * Java 1.8
 * Spring Boot
